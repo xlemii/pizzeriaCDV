@@ -1,2 +1,4 @@
 # Menu
-Tresc
+## Pizzeria klasyczna
+1. Margarita (sos,ser)
+2. Funghi (sos,ser,grzyby)
