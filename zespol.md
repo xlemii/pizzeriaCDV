@@ -1,2 +1,7 @@
 # Zespol
-Tresc
+
+## Kierownik
+
+## Dostawca
+
+## Grafik
