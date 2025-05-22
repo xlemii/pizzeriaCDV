@@ -7,4 +7,4 @@
 |----|-------------------|-------|-------|------|
 |1.  |Margarita (sos,ser)| 20 zl| 25 zl| 30 zl|
 |2.  |Funghi (sos,ser,grzyby)| 22 zl| 27 zl| 33 zl |
-|3.  |Salami (sos,ser,salami)| 23 zl| 28 zl| 35 zl|
+|3.  |Hawajska (sos,ser,ananas)| 23 zl| 28 zl| 35 zl|
